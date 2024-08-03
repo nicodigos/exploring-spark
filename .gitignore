@@ -1,2 +1,4 @@
+/datasets
+/jdbc-drivers
 /.pyspark-env
 .ipynb_checkpoints/
